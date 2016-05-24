@@ -276,9 +276,9 @@ class Form
     }
 
     /**
-     * @param array $subtotal
+     * @param array $subtotalData
      */
-    public function setSubtotalData($subtotal)
+    public function setSubtotalData($subtotalData)
     {
         $this->subtotalData = $subtotalData;
     }
